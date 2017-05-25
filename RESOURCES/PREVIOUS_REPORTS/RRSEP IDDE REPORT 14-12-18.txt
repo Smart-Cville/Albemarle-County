@@ -1,0 +1,34 @@
+From:	StartLogic Form Processor <FormProcessor@startlogic.com>
+Sent:	Thursday, December 18, 2014 2:01 PM
+To:	Martin Johnson
+Subject:	RRSEP IDDE REPORT
+
+Here are the results of your form at http://www.rivanna-stormwater.org/idde_report.htm.
+Submitted on Thu Dec 18 19:00:51 2014 (GMT).
+
+1. DATE = 12/18/14
+2. TIME = 1200pm
+3. TYPE-OF-IDDE = Suspicious Suds or other Substance Floating on Water 4. LOCATION-OF-IDDE 
+COMMENTS = Charlottesville Circuit Court- mop water dumped
+
+5. STREET = East High Street
+6. CROSS_STREET = 4th st ne
+7. ADDRESS = 315 East High Street
+8. BODY_OF_WATER =
+9. FIRST_NAME =
+10. LAST_NAME =
+11. HOME_PHONE =
+12. WORK_PHONE =
+13. EMAIL =
+14. SOURCE =
+15. SOURCE COMMENTS = 
+
+Settings:
+16. my_email = 
+martin.johnson@tjswcd.org,gharper@albemarle.org,riddervold@charlottesville.org,js2zf@virginia.edu
+17. order = DATE,TIME,TYPE-OF-IDDE,LOCATION-OF-IDDE 
+COMMENTS,STREET,CROSS_STREET,ADDRESS,BODY_OF_WATER,FIRST_NAME,LAST_NAME,HOME_PHO
+NE,WORK_PHONE,EMAIL,SOURCE,SOURCE COMMENTS 18. subject = RRSEP IDDE REPORT 19. 
+thankyou_url = http://www.rivanna-stormwater.org/thank_you.htm
+Browser Type:  Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0<br/>User's IP Addr:  
+76.3.238.4<br/>Thank you for using the Form Processor.<br/>

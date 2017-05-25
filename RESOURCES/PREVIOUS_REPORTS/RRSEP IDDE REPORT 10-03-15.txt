@@ -1,0 +1,33 @@
+From: StartLogic Form Processor [FormProcessor@startlogic.com]
+Sent: Monday, March 15, 2010 7:57 AM
+To: martin.johnson@vaswcd.org
+Subject: RRSEP IDDE REPORT
+
+Here are the results of your form at http://www.rivanna-stormwater.org/idde_report.htm.
+Submitted on Mon Mar 15 11:56:45 2010 (GMT).
+
+1. DATE = 1970+
+2. TIME = 
+3. TYPE-OF-IDDE = Water in Stream Smells Strange,Suspicious Suds or other Substance Floating on Water,Fish or other Aquatic Creatures appear to have Died
+4. LOCATION-OF-IDDE COMMENTS = Please see youtube video of tis dilema: http://www.youtube.com/watch?v=pU2xMkh0ARw
+
+
+Any authority I talk too in regards knows about this problem but nothing gets done.  How more severe of a problem do we need to peak interest?  Youre clean ups downstream of Wollen Mills is silly and is of no help as long as this dump remains exposed.  For every piece of trash I pick up a 100 more follow.   Respectfully... your efforts without enormous public sensitivity and help is futile.
+5. STREET = Old Avon Dump
+6. CROSS_STREET = Avon St
+7. ADDRESS = 
+8. BODY_OF_WATER = Moore's Creek/Rivanna
+9. FIRST_NAME = Mike
+10. LAST_NAME = Meintzschel
+11. HOME_PHONE = 434-984-0185
+12. WORK_PHONE = 
+13. EMAIL = getout2@embarqmail.com
+14. SOURCE = 
+15. SOURCE COMMENTS = 
+
+Settings:
+16. my_email = martin.johnson@vaswcd.org,gharper@albemarle.org,riddervold@charlottesville.org,js2zf@virginia.edu
+17. order = DATE,TIME,TYPE-OF-IDDE,LOCATION-OF-IDDE COMMENTS,STREET,CROSS_STREET,ADDRESS,BODY_OF_WATER,FIRST_NAME,LAST_NAME,HOME_PHONE,WORK_PHONE,EMAIL,SOURCE,SOURCE COMMENTS
+18. subject = RRSEP IDDE REPORT
+19. thankyou_url = http://www.rivanna-stormwater.org/thank_you.htm
+Browser Type:  Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.4; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0)<br/>User's IP Addr:  138.210.0.237<br/>Thank you for using the Form Processor.<br/>

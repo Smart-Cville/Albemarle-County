@@ -1,0 +1,33 @@
+From:	StartLogic Form Processor [FormProcessor@startlogic.com]
+Sent:	Saturday, March 08, 2014 1:15 PM
+To:	martin.johnson@tjswcd.org
+Subject:	RRSEP IDDE REPORT
+
+Here are the results of your form at http://www.rivanna-stormwater.org/idde_report.htm.
+Submitted on Sat Mar  8 18:14:46 2014 (GMT).
+
+1. DATE = 3/8/14
+2. TIME = 1pm
+3. TYPE-OF-IDDE = Suspicious Suds or other Substance Floating on Water 4. LOCATION-OF-IDDE 
+COMMENTS = Bobs wheel alinement was having a car wash fund raiser for a Monticello softball 5. 
+STREET = Market st 6. CROSS_STREET = 7. ADDRESS = 8. BODY_OF_WATER = 9. FIRST_NAME = Repp 10. 
+LAST_NAME = Glaettli 11. HOME_PHONE = 4342495928 12. WORK_PHONE = 13. EMAIL = 
+Rglaettli@albemarle.org 14. SOURCE = Other 15. SOURCE COMMENTS = 
+
+Settings:
+16. my_email = 
+martin.johnson@tjswcd.org,gharper@albemarle.org,riddervold@charlottesville.org,js2zf@virginia.ed
+u
+17. order = DATE,TIME,TYPE-OF-IDDE,LOCATION-OF-IDDE 
+COMMENTS,STREET,CROSS_STREET,ADDRESS,BODY_OF_WATER,FIRST_NAME,LAST_NAME,HOME_PH
+ONE,WORK_PHONE,EMAIL,SOURCE,SOURCE COMMENTS 18. subject = RRSEP IDDE REPORT 19. 
+thankyou_url = http://www.rivanna-stormwater.org/thank_you.htm
+Browser Type:  Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 
+(KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53<br/>User's IP Addr:  
+166.216.165.95<br/>Thank you for using the Form Processor.<br/>
+
+
+-----
+No virus found in this message.
+Checked by AVG - www.avg.com
+Version: 2014.0.4335 / Virus Database: 3722/7172 - Release Date: 03/09/14

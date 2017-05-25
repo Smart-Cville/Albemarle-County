@@ -1,0 +1,28 @@
+From: StartLogic Form Processor [FormProcessor@startlogic.com]
+Sent: Friday, April 17, 2009 8:45 AM
+To: martin.johnson@vaswcd.org
+Subject: RRSEP IDDE REPORT
+
+Here are the results of your form at http://www.rivanna-stormwater.org/idde_report.htm.
+Submitted on Fri Apr 17 12:45:11 2009 (GMT).
+
+1. DATE = received call 4/17/09
+2. TIME = 
+3. TYPE-OF-IDDE = Suspicious Suds or other Substance Floating on Water
+4. COMMENTS = Mr. Helvin (sp?) called the office (TJSWCD) to report wash water (detergent/soap suds for washing cars)entering stream along the Rivanna Trail at Woolen Mills coming from Costner Motors. He assumes folks are aware of this, but thought he would report it. He saw an ad in the local paper on who to call to report. He did not want to leave a call back number and did not wish to fill this form out online. He said he was just a "concerned citizen". Complaint received by Ross Norton of TJSWCD (975-0224)
+5. STREET = 
+6. CROSS_STREET = 
+7. ADDRESS = Behind Costner Motors
+8. BODY_OF_WATER = Rivanna River
+9. FIRST_NAME = George
+10. LAST_NAME = Helvin
+11. HOME_PHONE = 
+12. WORK_PHONE = 
+13. EMAIL = 
+
+Settings:
+14. my_email = martin.johnson@vaswcd.org,gharper@albemarle.org,riddervold@charlottesville.org,js2zf@virginia.edu,steve.ikenberry@vdot.virginia.gov,frisbee@charlottesville.org
+15. order = DATE,TIME,TYPE-OF-IDDE,COMMENTS,STREET,CROSS_STREET,ADDRESS,BODY_OF_WATER,FIRST_NAME,LAST_NAME,HOME_PHONE,WORK_PHONE,EMAIL
+16. subject = RRSEP IDDE REPORT
+17. thankyou_url = http://www.rivanna-stormwater.org/thank_you.htm
+Browser Type:  Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.8) Gecko/2009032609 Firefox/3.0.8<br/>User's IP Addr:  138.210.10.144<br/>Thank you for using the Form Processor.<br/>

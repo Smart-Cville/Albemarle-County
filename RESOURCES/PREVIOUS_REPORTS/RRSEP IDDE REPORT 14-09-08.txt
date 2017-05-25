@@ -1,0 +1,26 @@
+From:	StartLogic Form Processor <FormProcessor@startlogic.com>
+Sent:	Monday, September 08, 2014 8:47 AM
+To:	martin.johnson@tjswcd.org
+Subject:	RRSEP IDDE REPORT
+
+Here are the results of your form at http://www.rivanna-stormwater.org/idde_report.htm.
+Submitted on Mon Sep  8 12:46:57 2014 (GMT).
+
+1. DATE = 09082014
+2. TIME = 8:00
+3. TYPE-OF-IDDE = Dumping Down a Storm Drain 4. LOCATION-OF-IDDE COMMENTS = Septic drain pipes 
+being installed in storm drain easement 5. STREET = rocks mill lane 6. CROSS_STREET = 7. ADDRESS = 
+near 3520 8. BODY_OF_WATER = 9. FIRST_NAME = carla 10. LAST_NAME = gress 11. HOME_PHONE = 
+4349818299 12. WORK_PHONE = 13. EMAIL = carlagress@Virginia.edu 14. SOURCE = Search Engine 15. 
+SOURCE COMMENTS = County website
+
+Settings:
+16. my_email = 
+martin.johnson@tjswcd.org,gharper@albemarle.org,riddervold@charlottesville.org,js2zf@virginia.edu
+17. order = DATE,TIME,TYPE-OF-IDDE,LOCATION-OF-IDDE 
+COMMENTS,STREET,CROSS_STREET,ADDRESS,BODY_OF_WATER,FIRST_NAME,LAST_NAME,HOME_PHO
+NE,WORK_PHONE,EMAIL,SOURCE,SOURCE COMMENTS 18. subject = RRSEP IDDE REPORT 19. 
+thankyou_url = http://www.rivanna-stormwater.org/thank_you.htm
+Browser Type:  Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; 
+ARM; Touch; NOKIA; Lumia 928)<br/>User's IP Addr:  70.208.134.26<br/>Thank you for using the Form 
+Processor.<br/>

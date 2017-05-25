@@ -1,0 +1,32 @@
+From: StartLogic Form Processor [FormProcessor@startlogic.com]
+Sent: Thursday, March 25, 2010 2:38 PM
+To: martin.johnson@vaswcd.org
+Subject: RRSEP IDDE REPORT
+
+Here are the results of your form at http://www.rivanna-stormwater.org/idde_report.htm.
+Submitted on Thu Mar 25 18:38:27 2010 (GMT).
+
+1. DATE = 03/23/10
+2. TIME = Morning 8.am
+3. TYPE-OF-IDDE = Dumping Down a Storm Drain,Water in Stream Smells Strange,Suspicious Suds or other Substance Floating on Water
+4. LOCATION-OF-IDDE COMMENTS = Live in hollow at address above the last house on right name Darrell Mullins or Kenneth Mullins is the last house on left side. Their Septic is running out on ground and the smaller kids play around it and in it. The kid and dogs play in the creek just below where the Septic runs out. It smells very bad. Especially in the summer. 
+  Coming from Grundy Va. You would take Rt. 83 toward West Virgina State line the road is also called Slate Creek. The Osborn Branch Road is on the Right side of Road, Stay on the main road until you come to the last houses the road is right between the house. the porches is on front and sides of each house, they have a wood shed on the right side of road and a Dark Red Chevy Truck 4 doors that is Kenneth's Darrell has a Blue 1965 2 door coup  Ford Mustang and a old Van. 
+  I am worried if my children plays in the Creek they might catch something from their Septic running in it.
+5. STREET = 1579 Osborn Branch Road 
+6. CROSS_STREET = 
+7. ADDRESS = 1579 Osborn Branch Grundy Va. 24614
+8. BODY_OF_WATER = Creek  below home, Slate Creek river
+9. FIRST_NAME = 
+10. LAST_NAME = 
+11. HOME_PHONE = 
+12. WORK_PHONE = 
+13. EMAIL = 
+14. SOURCE = Other
+15. SOURCE COMMENTS = I found you on the internet under report Illigal Septic spills.
+
+Settings:
+16. my_email = martin.johnson@vaswcd.org,gharper@albemarle.org,riddervold@charlottesville.org,js2zf@virginia.edu
+17. order = DATE,TIME,TYPE-OF-IDDE,LOCATION-OF-IDDE COMMENTS,STREET,CROSS_STREET,ADDRESS,BODY_OF_WATER,FIRST_NAME,LAST_NAME,HOME_PHONE,WORK_PHONE,EMAIL,SOURCE,SOURCE COMMENTS
+18. subject = RRSEP IDDE REPORT
+19. thankyou_url = http://www.rivanna-stormwater.org/thank_you.htm
+Browser Type:  Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB6; FunWebProducts; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729)<br/>User's IP Addr:  67.48.123.166<br/>Thank you for using the Form Processor.<br/>

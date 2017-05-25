@@ -1,0 +1,30 @@
+From: StartLogic Form Processor [FormProcessor@startlogic.com]
+Sent: Sunday, July 12, 2009 10:42 AM
+To: martin.johnson@vaswcd.org
+Subject: RRSEP IDDE REPORT
+
+Here are the results of your form at http://www.rivanna-stormwater.org/idde_report.htm.
+Submitted on Sun Jul 12 14:41:42 2009 (GMT).
+
+1. DATE = July 12, 2009
+2. TIME = 9:35 a.m. onward
+3. TYPE-OF-IDDE = Dumping Down a Storm Drain
+4. LOCATION-OF-IDDE COMMENTS = Pressure washing restaurant equipment and floor mats behind Otto's restaurant. Also, the grease cans next to the dumpster behind the restaurant are a source of grease pollution into the storm drains, which are just a few feet away. I'm unsure if this activity meets the threshold for action, but it certainly is a non-point source of pollution, if only a relatively small amount. None of the other restaurants that share this building pressure wash their equipment out back. I wish to remain anonymous.
+5. STREET = 325 Four Leaf Lane
+6. CROSS_STREET = Clover Lawn Lane
+7. ADDRESS = 325 Four Leaf Lane
+8. BODY_OF_WATER = storm drains
+9. FIRST_NAME = Scott 
+10. LAST_NAME = Wilber
+11. HOME_PHONE = 434-806-1348
+12. WORK_PHONE = same
+13. EMAIL = sawilber@gmail.com
+14. SOURCE = Search Engine
+15. SOURCE COMMENTS = Linked off off the Albemarle County Water Pollution Hotline press release, which I found in a search for waste water runoff regulations.
+
+Settings:
+16. my_email = martin.johnson@vaswcd.org,gharper@albemarle.org,riddervold@charlottesville.org,js2zf@virginia.edu
+17. order = DATE,TIME,TYPE-OF-IDDE,LOCATION-OF-IDDE COMMENTS,STREET,CROSS_STREET,ADDRESS,BODY_OF_WATER,FIRST_NAME,LAST_NAME,HOME_PHONE,WORK_PHONE,EMAIL,SOURCE,SOURCE COMMENTS
+18. subject = RRSEP IDDE REPORT
+19. thankyou_url = http://www.rivanna-stormwater.org/thank_you.htm
+Browser Type:  Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10.4; en-US; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11<br/>User's IP Addr:  76.123.3.216<br/>Thank you for using the Form Processor.<br/>

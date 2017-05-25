@@ -1,0 +1,30 @@
+From: StartLogic Form Processor [FormProcessor@startlogic.com]
+Sent: Friday, August 07, 2009 9:33 PM
+To: martin.johnson@vaswcd.org
+Subject: RRSEP IDDE REPORT
+
+Here are the results of your form at http://www.rivanna-stormwater.org/idde_report.htm.
+Submitted on Sat Aug  8 01:33:14 2009 (GMT).
+
+1. DATE = Aug. 7, 2009 & earlier
+2. TIME = 10 am
+3. TYPE-OF-IDDE = Dumping Down a Storm Drain
+4. LOCATION-OF-IDDE COMMENTS = Please do not use my name.  I volunteer there, worked there for 30 yrs., and spoke to the custodian when he was dumping the cleaning agents down the drain.   Please investigate how the custodians in the city schools are supposed to dispose of the liquid cleaning residue after washing the school rugs and hallways.   He had poured a large amount earlier and the grass was totally brown for at least 4 ftx4ft.  He poured lots of white chemical liquid directly into the drain near the garden in the back of the school leaving white residue around the drain and in the drain.  He had poured some on other days on the grass and into the edge of the garden near the primary wing door.  He seemed surprised when I told him the liquid was a toxic chemical and was surprised that it had killed the grass.    My hope is that some action be taken educating the cleaning staff in the city schools so this will not continue and that they have an alternative method of disposing of such chemicals and/or u
+5. STREET = Venable Elementary School
+6. CROSS_STREET = 14th and Gordon Ave
+7. ADDRESS = 406 14th st NW
+8. BODY_OF_WATER = groundwater AND storm drain impacted
+9. FIRST_NAME = Nancy 
+10. LAST_NAME = Newman
+11. HOME_PHONE = 9732802
+12. WORK_PHONE = 
+13. EMAIL = NNature642@aol.com
+14. SOURCE = Other
+15. SOURCE COMMENTS = I just received my utility bill today and the Storm Drain Dumping & Stream Pollution flyer was enclosed.   The timing was perfect as I witnessed this dumping today while weeding the gardens at the school and was trying to figure out who to call.   I was going to call City Works Dept. on Monday to ask what to do but will now not do that. I will depend on your taking action.
+
+Settings:
+16. my_email = martin.johnson@vaswcd.org,gharper@albemarle.org,riddervold@charlottesville.org,js2zf@virginia.edu
+17. order = DATE,TIME,TYPE-OF-IDDE,LOCATION-OF-IDDE COMMENTS,STREET,CROSS_STREET,ADDRESS,BODY_OF_WATER,FIRST_NAME,LAST_NAME,HOME_PHONE,WORK_PHONE,EMAIL,SOURCE,SOURCE COMMENTS
+18. subject = RRSEP IDDE REPORT
+19. thankyou_url = http://www.rivanna-stormwater.org/thank_you.htm
+Browser Type:  Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.0; Windows NT 5.1; .NET CLR 1.1.4322)<br/>User's IP Addr:  205.188.117.10<br/>Thank you for using the Form Processor.<br/>

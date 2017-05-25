@@ -1,0 +1,33 @@
+From:	StartLogic Form Processor <FormProcessor@startlogic.com>
+Sent:	Wednesday, December 17, 2014 6:03 PM
+To:	Martin Johnson
+Subject:	RRSEP IDDE REPORT
+
+Here are the results of your form at http://www.rivanna-stormwater.org/idde_report.htm.
+Submitted on Wed Dec 17 23:02:50 2014 (GMT).
+
+1. DATE = 12-17-14
+2. TIME = 5:20pm
+3. TYPE-OF-IDDE = Dumping Down a Storm Drain 4. LOCATION-OF-IDDE COMMENTS = Power washing 
+Supply Room Company fleet vehicles.
+5. STREET = harris street
+6. CROSS_STREET = henery ave
+7. ADDRESS = 750 harris st
+8. BODY_OF_WATER =
+9. FIRST_NAME = Repp
+10. LAST_NAME = Glaettli
+11. HOME_PHONE = 249-5928
+12. WORK_PHONE = 296-5816
+13. EMAIL = rglaettli@albemarle.org
+14. SOURCE = Other
+15. SOURCE COMMENTS = 
+
+Settings:
+16. my_email = 
+martin.johnson@tjswcd.org,gharper@albemarle.org,riddervold@charlottesville.org,js2zf@virginia.edu
+17. order = DATE,TIME,TYPE-OF-IDDE,LOCATION-OF-IDDE 
+COMMENTS,STREET,CROSS_STREET,ADDRESS,BODY_OF_WATER,FIRST_NAME,LAST_NAME,HOME_PHO
+NE,WORK_PHONE,EMAIL,SOURCE,SOURCE COMMENTS 18. subject = RRSEP IDDE REPORT 19. 
+thankyou_url = http://www.rivanna-stormwater.org/thank_you.htm
+Browser Type:  Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0<br/>User's IP Addr:  
+76.3.238.4<br/>Thank you for using the Form Processor.<br/>

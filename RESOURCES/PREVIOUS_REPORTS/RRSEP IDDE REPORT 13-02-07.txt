@@ -1,0 +1,42 @@
+From:	Greg Harper [gharper@albemarle.org]
+Sent:	Friday, February 08, 2013 3:22 PM
+To:	Martin Johnson
+Subject:	FW: RRSEP IDDE REPORT
+
+
+
+-----Original Message-----
+From: StartLogic Form Processor [mailto:FormProcessor@startlogic.com]
+Sent: Thursday, February 07, 2013 3:03 PM
+To: Greg Harper
+Subject: RRSEP IDDE REPORT
+
+Here are the results of your form at
+http://www.rivanna-stormwater.org/idde_report.htm.
+Submitted on Thu Feb  7 20:03:05 2013 (GMT).
+
+1. DATE = 2/7/2013
+2. TIME = 10:00 am
+3. TYPE-OF-IDDE = Suspicious Discharge from Pipe into a Stream 4. LOCATION-OF-
+IDDE COMMENTS = PVC pipe discharging what appears to be water from (laundry) 
+washer into channel on west side of property. Flow of water changed very 
+rapidly on day without rain. No apparent suds in discharge.
+5. STREET =
+6. CROSS_STREET =
+7. ADDRESS = 5877 St George Ave
+8. BODY_OF_WATER = un-named tributary of Parrot Branch in Crozet 9. FIRST_NAME 
+= Martin 10. LAST_NAME = Johnson 11. HOME_PHONE = 12. WORK_PHONE = 434-975-
+0224 x6 13. EMAIL = martin.johnson@tjswcd.org 14. SOURCE = Other 15. SOURCE 
+COMMENTS = 
+
+Settings:
+16. my_email =
+martin.johnson@vaswcd.org,gharper@albemarle.org,riddervold@charlottesvil
+le.org,js2zf@virginia.edu
+17. order = DATE,TIME,TYPE-OF-IDDE,LOCATION-OF-IDDE
+COMMENTS,STREET,CROSS_STREET,ADDRESS,BODY_OF_WATER,FIRST_NAME,LAST_NAME,
+HOME_PHONE,WORK_PHONE,EMAIL,SOURCE,SOURCE COMMENTS 18. subject = RRSEP IDDE 
+REPORT 19. thankyou_url = http://www.rivanna-stormwater.org/thank_you.htm
+Browser Type:  Mozilla/5.0 (Windows NT 6.1; rv:18.0) Gecko/20100101 
+Firefox/18.0<br/>User's IP Addr:  76.3.238.118<br/>Thank you for using the 
+Form Processor.<br/>

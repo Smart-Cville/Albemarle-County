@@ -1,0 +1,41 @@
+From: StartLogic Form Processor [FormProcessor@startlogic.com]
+Sent: Friday, April 17, 2009 1:46 PM
+To: martin.johnson@vaswcd.org
+Subject: RRSEP IDDE REPORT
+
+Follow Up Flag: Follow up
+Flag Status: Yellow
+
+Here are the results of your form at http://www.rivanna-stormwater.org/idde_report.htm.
+Submitted on Fri Apr 17 17:46:16 2009 (GMT).
+
+1. DATE = 
+2. TIME = 
+3. TYPE-OF-IDDE = 
+4. COMMENTS = I am a Civil Engineer in the Current Development Department of Albemarle County.  I am currently reviewing the ESC/SWM plans for the Charlottesville/Albemarle Airport Runway extension which is located about 2000ft upstream of Chris Greene Lake in Northern Albemarle County.  Earlier today I met with a concerned downstream property owner who mentioned that in the upper reaches of the lake there is a large amount of rubber debris (from the tires of planes landing presumably) that seems to have come from the airport.  Unfortunately, this isn't my area of expertise and I do not know if this qualifies as illicit discharge.  For this SWM plan we are reviewing, we will request that they address our concern about the rubber particles, but only 10%-20% of the runway drains into these new facilities.
+
+
+To clarify, I have not seen the area in question or noticed any rubber particles, but the citizen I met with earlier today mentioned it and I thought I would pass it along.  The gentleman's name is Allan Kindrick and he can be reached at 434-973-5436.
+
+
+If I can be of any assistance, please feel free to call or email me.
+
+
+Thanks,
+Phil
+5. STREET = Crickenberg Lane
+6. CROSS_STREET = Dickerson Road
+7. ADDRESS = 
+8. BODY_OF_WATER = Chris Green Lake
+9. FIRST_NAME = Philip
+10. LAST_NAME = Custer
+11. HOME_PHONE = 
+12. WORK_PHONE = 434-296-5832 x3072
+13. EMAIL = pcuster@albemarle.org
+
+Settings:
+14. my_email = martin.johnson@vaswcd.org,gharper@albemarle.org,riddervold@charlottesville.org,js2zf@virginia.edu,steve.ikenberry@vdot.virginia.gov,frisbee@charlottesville.org
+15. order = DATE,TIME,TYPE-OF-IDDE,COMMENTS,STREET,CROSS_STREET,ADDRESS,BODY_OF_WATER,FIRST_NAME,LAST_NAME,HOME_PHONE,WORK_PHONE,EMAIL
+16. subject = RRSEP IDDE REPORT
+17. thankyou_url = http://www.rivanna-stormwater.org/thank_you.htm
+Browser Type:  Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB5; InfoPath.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)<br/>User's IP Addr:  76.3.238.4<br/>Thank you for using the Form Processor.<br/>

@@ -1,0 +1,40 @@
+From:	StartLogic Form Processor [FormProcessor@startlogic.com]
+Sent:	Wednesday, October 23, 2013 4:30 PM
+To:	martin.johnson@tjswcd.org
+Subject:	RRSEP IDDE REPORT
+
+Here are the results of your form at http://www.rivanna-stormwater.org/idde_report.htm.
+Submitted on Wed Oct 23 20:29:32 2013 (GMT).
+
+1. DATE =
+2. TIME =
+3. TYPE-OF-IDDE = Suspicious Discharge from Pipe into a Stream 4. LOCATION-OF-IDDE COMMENTS = 
+This was reported as an regular practice by ACAC.  I am president of the Four Seasons Townhouse 
+Association, and at our annual meeting, several of the homeowners who live on the edge of the pond 
+reported this.  They said that twice a year the pool is allowed to drain into the pond.  They said that the 
+ACAC staff told them that they stop chlorinating the water first, but the homeowners were still 
+concerned that this is having an adverse affect.
+5. STREET = Four Seasons Drive
+6. CROSS_STREET = Woodlake Drive
+7. ADDRESS =
+8. BODY_OF_WATER = Storm retention pond in Four Seasons 9. FIRST_NAME = Donna 10. LAST_NAME 
+= Redmond 11. HOME_PHONE = 434-242-8484 12. WORK_PHONE = 13. EMAIL = 
+donna.redmond@yahoo.com 14. SOURCE = Search Engine 15. SOURCE COMMENTS = I use the 
+Albemarle County Web Site often, and this is where I first go for any local issue.
+
+Settings:
+16. my_email = 
+martin.johnson@tjswcd.org,gharper@albemarle.org,riddervold@charlottesville.org,js2zf@virginia.ed
+u
+17. order = DATE,TIME,TYPE-OF-IDDE,LOCATION-OF-IDDE 
+COMMENTS,STREET,CROSS_STREET,ADDRESS,BODY_OF_WATER,FIRST_NAME,LAST_NAME,HOME_PH
+ONE,WORK_PHONE,EMAIL,SOURCE,SOURCE COMMENTS 18. subject = RRSEP IDDE REPORT 19. 
+thankyou_url = http://www.rivanna-stormwater.org/thank_you.htm
+Browser Type:  Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 
+Firefox/24.0<br/>User's IP Addr:  71.62.149.92<br/>Thank you for using the Form Processor.<br/>
+
+
+-----
+No virus found in this message.
+Checked by AVG - www.avg.com
+Version: 2014.0.4158 / Virus Database: 3614/6774 - Release Date: 10/23/13

@@ -1,0 +1,26 @@
+From:	StartLogic Form Processor <FormProcessor@startlogic.com>
+Sent:	Monday, June 02, 2014 7:07 AM
+To:	martin.johnson@tjswcd.org
+Subject:	RRSEP IDDE REPORT
+
+Here are the results of your form at http://www.rivanna-stormwater.org/idde_report.htm.
+Submitted on Mon Jun  2 11:07:04 2014 (GMT).
+
+1. DATE = 06/01/14
+2. TIME = 5:30 p.m.
+3. TYPE-OF-IDDE = Water in Stream is an Unusual Color,Suspicious Suds or other Substance Floating on 
+Water 4. LOCATION-OF-IDDE COMMENTS = Looks like heating oil might be draining into the ditch and 
+flowing into drainage system located on Avon Park's community property 5. STREET = 1920 Avon Street 
+6. CROSS_STREET = Arden Drive 7. ADDRESS = 1920 Avon Street 8. BODY_OF_WATER = drainage ditch 
+next to side of the road 9. FIRST_NAME = Shelly 10. LAST_NAME = Pellish 11. HOME_PHONE = 434-249-
+4441 12. WORK_PHONE = 13. EMAIL = pellishs@gmail.com 14. SOURCE = 15. SOURCE COMMENTS = 
+
+Settings:
+16. my_email = 
+martin.johnson@tjswcd.org,gharper@albemarle.org,riddervold@charlottesville.org,js2zf@virginia.edu
+17. order = DATE,TIME,TYPE-OF-IDDE,LOCATION-OF-IDDE 
+COMMENTS,STREET,CROSS_STREET,ADDRESS,BODY_OF_WATER,FIRST_NAME,LAST_NAME,HOME_PHO
+NE,WORK_PHONE,EMAIL,SOURCE,SOURCE COMMENTS 18. subject = RRSEP IDDE REPORT 19. 
+thankyou_url = http://www.rivanna-stormwater.org/thank_you.htm
+Browser Type:  Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:29.0) Gecko/20100101 
+Firefox/29.0<br/>User's IP Addr:  184.5.243.186<br/>Thank you for using the Form Processor.<br/>

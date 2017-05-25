@@ -1,0 +1,30 @@
+From: StartLogic Form Processor [FormProcessor@startlogic.com]
+Sent: Thursday, July 23, 2009 1:25 PM
+To: martin.johnson@vaswcd.org
+Subject: RRSEP IDDE REPORT
+
+Here are the results of your form at http://www.rivanna-stormwater.org/idde_report.htm.
+Submitted on Thu Jul 23 17:25:27 2009 (GMT).
+
+1. DATE = Week of July 13-17
+2. TIME = Afternoon
+3. TYPE-OF-IDDE = Dumping Down a Storm Drain
+4. LOCATION-OF-IDDE COMMENTS = The men who work at 32-L Market Square (on E. Market St.) dump chemicals into the parking lot about once a week. The substances are oily and seem to be from machines, but I can't identify them. It has been going on for months.
+5. STREET = E. Market St.
+6. CROSS_STREET = 
+7. ADDRESS = 32-L Market Square
+8. BODY_OF_WATER = Unknown
+9. FIRST_NAME = Eamon
+10. LAST_NAME = 
+11. HOME_PHONE = 757 651 6934
+12. WORK_PHONE = 
+13. EMAIL = etd6x@virginia.edu
+14. SOURCE = Other
+15. SOURCE COMMENTS = Came with the water bill
+
+Settings:
+16. my_email = martin.johnson@vaswcd.org,gharper@albemarle.org,riddervold@charlottesville.org,js2zf@virginia.edu
+17. order = DATE,TIME,TYPE-OF-IDDE,LOCATION-OF-IDDE COMMENTS,STREET,CROSS_STREET,ADDRESS,BODY_OF_WATER,FIRST_NAME,LAST_NAME,HOME_PHONE,WORK_PHONE,EMAIL,SOURCE,SOURCE COMMENTS
+18. subject = RRSEP IDDE REPORT
+19. thankyou_url = http://www.rivanna-stormwater.org/thank_you.htm
+Browser Type:  Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11<br/>User's IP Addr:  67.76.88.25<br/>Thank you for using the Form Processor.<br/>

@@ -1,0 +1,30 @@
+From: StartLogic Form Processor [FormProcessor@startlogic.com]
+Sent: Monday, March 22, 2010 10:54 AM
+To: martin.johnson@vaswcd.org
+Subject: RRSEP IDDE REPORT
+
+Here are the results of your form at http://www.rivanna-stormwater.org/idde_report.htm.
+Submitted on Mon Mar 22 14:54:01 2010 (GMT).
+
+1. DATE = 3-21-10
+2. TIME = 3:30pm
+3. TYPE-OF-IDDE = Dumping Down a Storm Drain
+4. LOCATION-OF-IDDE COMMENTS = Cavalier Produce truck fleet were power washed in the Cville market parking lot and the refuse water entered two storm drains. I asked the truck washers the name of their company and they told me it was Mobile Magic. I was unable to find a listing online for this company. I called Cavalier Produce to ask the name of truck washing company. Cavalier Produce rents the trucks from Pensky and Pensky scheduled the truck washing. 
+5. STREET = Carlton
+6. CROSS_STREET = Carlton Road and Carlton Ave
+7. ADDRESS = 221 Carlton Road
+8. BODY_OF_WATER = Moores Creek?
+9. FIRST_NAME = Repp
+10. LAST_NAME = Glaettli
+11. HOME_PHONE = 
+12. WORK_PHONE = 434-296-5816
+13. EMAIL = rglaettli@albemarle.org
+14. SOURCE = Search Engine
+15. SOURCE COMMENTS = 
+
+Settings:
+16. my_email = martin.johnson@vaswcd.org,gharper@albemarle.org,riddervold@charlottesville.org,js2zf@virginia.edu
+17. order = DATE,TIME,TYPE-OF-IDDE,LOCATION-OF-IDDE COMMENTS,STREET,CROSS_STREET,ADDRESS,BODY_OF_WATER,FIRST_NAME,LAST_NAME,HOME_PHONE,WORK_PHONE,EMAIL,SOURCE,SOURCE COMMENTS
+18. subject = RRSEP IDDE REPORT
+19. thankyou_url = http://www.rivanna-stormwater.org/thank_you.htm
+Browser Type:  Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6<br/>User's IP Addr:  76.3.238.4<br/>Thank you for using the Form Processor.<br/>
