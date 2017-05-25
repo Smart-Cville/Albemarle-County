@@ -11,7 +11,7 @@ Environment
 Albemarle County has thousands of stream miles. State and local policies require streams and their banks be protected from erosion, illicit discharges, etc., but proactively inspecting every mile is difficult.
 
 ## Team Challenge
-Find a solution that enables & empowers citizens to help protect local streams in the county?
+Find a solution that enables & empowers citizens to assist in the effort to protect local streams in the county.
 
 ### Data
 [TODO : Links]
