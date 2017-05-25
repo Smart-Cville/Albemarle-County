@@ -4,9 +4,6 @@ Albemarle County
 ### Stakeholder
 [Enter contact information]
 
-### Topic
-Environment
-
 # Problem
 Albemarle County has thousands of stream miles. State and local policies require streams and their banks be protected from erosion, illicit discharges, etc., but proactively inspecting every mile is difficult.
 
