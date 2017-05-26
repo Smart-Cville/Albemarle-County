@@ -1,8 +1,6 @@
 # Partner
 Albemarle County
-
-### Stakeholder
-[Enter contact information]
+[Water Resources Program](https://www.albemarle.org/department.asp?department=water)
 
 # Problem
 Albemarle County has thousands of stream miles. State and local policies require streams and their banks be protected from erosion, illicit discharges, etc., but proactively inspecting every mile is difficult.
